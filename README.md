@@ -1,0 +1,2 @@
+# Blog-Website-v1
+ This is a simple yet powerful blog platform built using Node.js and Express.js with EJS as the templating engine. It allows users to create, view, and search blog posts. Users can add new posts via a form, where they input a title and content. On the homepage, users can search for posts by title and view the full content by clicking "Read More." The website is designed to be easy to use and showcases basic CRUD functionalities for blog management.
